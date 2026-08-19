@@ -9,7 +9,6 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("HI");
         // لو عايز تختبر بدون UI
         String testFile = "data.xlsx";
         int testMonth = 2;
